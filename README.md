@@ -12,6 +12,14 @@
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=liuguoqingdq&theme=tokyo-night" />
 
+-----
+
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [IotaProxy](https://github.com/liuguoqingdq/Iot_proxy) | . | Go, Gin, MySQL, Redis, WebSocket, gRPC |
+
 ---
 ## 🛠 Tech Stack
 
