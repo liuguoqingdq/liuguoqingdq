@@ -18,13 +18,3 @@
 </p>
 
 ---
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| Learning Assistant Agent | A backend-driven Agent platform for tutoring, learning plans and wrong-question management |
-| ROS2 Robot Simulation | A continuous ROS2 project integrating Topic, Service, Action, Gazebo, RViz and SLAM |
-| Go Backend Practice | Backend service experiments with Gin, MySQL, Redis and WebSocket |
