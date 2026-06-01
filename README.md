@@ -8,10 +8,6 @@
   🌱 I love combining systems thinking with product creativity — from robot to cloud.
 </p>
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liuguoqingdq&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=liuguoqingdq&theme=tokyo-night" />
@@ -20,7 +16,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,python,linux,ros,mysql,redis,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,linux,ros,mysql,redis,docker,git,github" />
 </p>
 
 ---
