@@ -9,6 +9,9 @@
 </p>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api?username=liuguoqingdq&show_icons=true&theme=tokyonight" />
+
+---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=liuguoqingdq&theme=tokyo-night" />
 
 ---
