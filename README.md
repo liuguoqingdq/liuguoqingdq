@@ -16,9 +16,14 @@
 
 ## 🚀 Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| [IotaProxy](https://github.com/liuguoqingdq/Iot_proxy) | . | Go, Gin, MySQL, Redis, WebSocket, gRPC |
+<p align="center">
+  <a href="https://github.com/liuguoqingdq/Iot_proxy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liuguoqingdq&repo=Iot_proxy&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/liuguoqingdq/C-Line">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liuguoqingdq&repo=C-Line&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 ## 🛠 Tech Stack
